@@ -1,2 +1,2 @@
-# WTN
-Wireless Thermometer Network
+# WTN - Client
+Wireless Thermometer Network - Client
